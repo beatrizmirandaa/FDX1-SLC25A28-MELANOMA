@@ -5,3 +5,5 @@ Disponibilizamos os ficheiros relativos às scripts de cada um dos genes (FDX1 e
 
 Criamos uma drive onde colocamos todos os ficheiros obtidos pelo notebook com o decorrer das scripts:
 https://drive.google.com/drive/folders/18vHfPObUY3d17iF-RKptS1aOKZ2hRZNo?usp=sharing
+
+É de salientar que para a execução das scripts recorremos ao auxílio do grupo dos genes GNAQ e PKC.
